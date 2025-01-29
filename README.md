@@ -1,3 +1,3 @@
 # testrepo
-my nanme is sandhya parmar
+my name is sandhya parmar
 
